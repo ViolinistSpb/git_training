@@ -1,7 +1,7 @@
 from new_subfolder.work import my_summ
 
 
-a = 1
+a = 2
 b = 2
 c = 5
 
