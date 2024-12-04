@@ -1,4 +1,4 @@
-from new_subfolder.func import my_summ
+from new_subfolder.work import my_summ
 
 a = 1
 b = 2
